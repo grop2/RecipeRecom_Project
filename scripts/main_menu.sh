@@ -16,9 +16,9 @@ while true; do
 
     #based on the user"s input, run the corresponding script
     case $choice in
-        1) ./get_recipes.sh ;;
+        1) ./find_recipes.sh ;;
         2) ./calculate_calories.sh ;;
-        3) ./get_instructions.sh ;;
+        3) ./getInstr.sh ;;
         4) ./add_recipe.sh ;;
         5) echo "Goodbye!"; exit 0 ;;
         *) echo "Invalid choice. Please enter a number from 1 to 5." ;;
