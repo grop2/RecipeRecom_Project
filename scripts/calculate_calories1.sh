@@ -1,6 +1,6 @@
 #!/bin/bash
 
-data_file="../data/calories.txt"
+data_file="../scripts/calories.txt"
 
 if [ ! -f "$data_file" ]; then
     echo "⚠️ Error: Calorie data file not found at $data_file"
