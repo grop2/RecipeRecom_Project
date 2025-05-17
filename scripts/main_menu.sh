@@ -17,7 +17,7 @@ while true; do
     #based on the user"s input, run the corresponding script
     case $choice in
         1) ./find_recipes.sh ;;
-        2) ./calculate_calories.sh ;;
+        2) ./calculate_calories1.sh ;;
         3) ./getInstr.sh ;;
         4) ./add_recipe.sh ;;
         5) echo "Goodbye!"; exit 0 ;;
