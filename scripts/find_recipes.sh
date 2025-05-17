@@ -24,19 +24,22 @@ while IFS= read -r recipe; do
         match=false
         break
       fi
+    
     done
+    
+    if [ "$match" = true ]; then
+      matched_recipes+=("$recipe")
+    fi
+done <<< "$recipes"
 
-
-echo -e "\n Searching for recipes...\n"
-
-results=$(sqlite3 -separator "|" "$db_path" "$query")
-
-if [ -z "$results" ]; then
-    echo "No matching recipes found."
+if [ ${#matched_recipes[@]} -eq 0 ]; then
+    echo " no matching recipes found."
 else
-    echo "$results" | '|' 
-      echo "Recipe: $name"
-      echo "Ingredients: $ingredients"
-      echo ""
+    echo -e "\n Searching for recipes...\n"
+
+    for recipe in "${matched_recipes[@]}"; do
+
+      echo "$recipe"
+      echo "-----------------------------------"
     done
 fi
