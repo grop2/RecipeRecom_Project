@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-DATA_FILE="../data/recipes.txt"
+DATA_FILE="recipes.txt"
 
 #Get the last used ID from the file
 if [ -s "$DATA_FILE" ]; then
