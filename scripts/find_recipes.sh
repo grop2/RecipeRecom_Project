@@ -1,23 +1,30 @@
 #!/bin/bash
 
+data_file="data/recipes.txt"
+
+if [ ! -f "$data_file" ]; then
+    echo " Error: Database file not found at $data_file"
+    exit 1
+fi
+
 echo "Enter the ingredients you have (comma-separated):"
 read input_ingredients
 
 IFS=',' read -ra user_ingredients <<< "$input_ingredients"
 
-query="SELECT name, ingredients FROM recipes WHERE 1=1"
+matchhed_recipes=()
 
-for ingredient in "${user_ingredients[@]}"; do
-    cleaned=$(echo "$ingredient" | xargs | tr '[:upper:]' '[:lower:]')
-    query="$query AND LOWER(ingredients) LIKE '%$cleand%'"
-done
+recipes=$(awk -v RS= '' '{ print $0 }' "$data_file")
 
-db_path="data/recipes.db"
-
-if [ ! -f "$db_path" ]; then
-    echo " Error: Database file not found at $db_path"
-    exit 1
-fi
+while IFS= read -r recipe; do
+    match=true
+    for ingredient in "${user_ingredients[@]}"; do
+      cleaned=$(echo "$ingredient" | xargs | tr '[:upper:]' '[:lower:]')
+      if ! echo "$recipe" | grep -i "ingredients:" | grep -qi "$cleand"; then
+        match=false
+        break
+      fi
+    done
 
 
 echo -e "\n Searching for recipes...\n"
@@ -27,8 +34,7 @@ results=$(sqlite3 -separator "|" "$db_path" "$query")
 if [ -z "$results" ]; then
     echo "No matching recipes found."
 else
-    echo "$results" | while IFS='|' read -r name ingredients
-    do
+    echo "$results" | '|' 
       echo "Recipe: $name"
       echo "Ingredients: $ingredients"
       echo ""
