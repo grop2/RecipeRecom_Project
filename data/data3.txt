@@ -1,0 +1,599 @@
+Ingredient Name: Grilled chicken breast
+Calories: 165 kcal per 100 grams
+
+Ingredient Name: Ground beef
+Calories: 250 kcal per 100 grams
+
+Ingredient Name: Cooked white rice
+Calories: 130 kcal per 100 grams
+
+Ingredient Name: Cooked brown rice
+Calories: 112 kcal per 100 grams
+
+Ingredient Name: Boiled pasta
+Calories: 131 kcal per 100 grams
+
+Ingredient Name: Boiled potatoes
+Calories: 87 kcal per 100 grams
+
+Ingredient Name: French fries
+Calories: 312 kcal per 100 grams
+
+Ingredient Name: Olive oil
+Calories: 884 kcal per 100 grams
+
+Ingredient Name: Onion
+Calories: 40 kcal per 100 grams
+
+Ingredient Name: Garlic
+Calories: 149 kcal per 100 grams
+
+Ingredient Name: Tomato
+Calories: 18 kcal per 100 grams
+
+Ingredient Name: Tomato paste
+Calories: 82 kcal per 100 grams
+
+Ingredient Name: Bell pepper
+Calories: 20 kcal per 100 grams
+
+Ingredient Name: Carrot
+Calories: 41 kcal per 100 grams
+
+Ingredient Name: Eggplant
+Calories: 25 kcal per 100 grams
+
+Ingredient Name: Zucchini
+Calories: 17 kcal per 100 grams
+
+Ingredient Name: Spinach
+Calories: 23 kcal per 100 grams
+
+Ingredient Name: Parsley
+Calories: 36 kcal per 100 grams
+
+Ingredient Name: Canned red beans
+Calories: 127 kcal per 100 grams
+
+Ingredient Name: Cooked lentils
+Calories: 116 kcal per 100 grams
+
+Ingredient Name: Cooked chickpeas
+Calories: 164 kcal per 100 grams
+
+Ingredient Name: Low-fat yogurt
+Calories: 59 kcal per 100 grams
+
+Ingredient Name: Greek yogurt
+Calories: 97 kcal per 100 grams
+
+Ingredient Name: Mozzarella cheese
+Calories: 280 kcal per 100 grams
+
+Ingredient Name: Feta cheese
+Calories: 264 kcal per 100 grams
+
+Ingredient Name: Cheddar cheese
+Calories: 403 kcal per 100 grams
+
+Ingredient Name: Boiled egg
+Calories: 155 kcal per 100 grams
+
+Ingredient Name: White toast bread
+Calories: 265 kcal per 100 grams
+
+Ingredient Name: Whole wheat bread
+Calories: 250 kcal per 100 grams
+
+Ingredient Name: White bread
+Calories: 265 kcal per 100 grams
+
+Ingredient Name: Oat bread
+Calories: 246 kcal per 100 grams
+
+Ingredient Name: Sandwich roll
+Calories: 275 kcal per 100 grams
+
+Ingredient Name: Dates
+Calories: 282 kcal per 100 grams
+
+Ingredient Name: Honey
+Calories: 304 kcal per 100 grams
+
+Ingredient Name: White sugar
+Calories: 387 kcal per 100 grams
+
+Ingredient Name: Brown sugar
+Calories: 380 kcal per 100 grams
+
+Ingredient Name: Oats
+Calories: 389 kcal per 100 grams
+
+Ingredient Name: Ground barley
+Calories: 354 kcal per 100 grams
+
+Ingredient Name: Boiled wheat
+Calories: 111 kcal per 100 grams
+
+Ingredient Name: Cooked bulgur
+Calories: 83 kcal per 100 grams
+
+Ingredient Name: Boiled corn
+Calories: 96 kcal per 100 grams
+
+Ingredient Name: Cooked freekeh
+Calories: 110 kcal per 100 grams
+
+Ingredient Name: White flour
+Calories: 364 kcal per 100 grams
+
+Ingredient Name: Whole wheat flour
+Calories: 340 kcal per 100 grams
+
+Ingredient Name: Cornstarch
+Calories: 381 kcal per 100 grams
+
+Ingredient Name: Full-fat milk
+Calories: 61 kcal per 100 grams
+
+Ingredient Name: Low-fat milk
+Calories: 42 kcal per 100 grams
+
+Ingredient Name: Sweetened condensed milk
+Calories: 321 kcal per 100 grams
+
+Ingredient Name: Labneh
+Calories: 220 kcal per 100 grams
+
+Ingredient Name: Cream
+Calories: 350 kcal per 100 grams
+
+Ingredient Name: Cooking cream
+Calories: 345 kcal per 100 grams
+
+Ingredient Name: Whipping cream
+Calories: 338 kcal per 100 grams
+
+Ingredient Name: Cottage cheese
+Calories: 98 kcal per 100 grams
+
+Ingredient Name: Halloumi cheese
+Calories: 310 kcal per 100 grams
+
+Ingredient Name: Canned tuna in water
+Calories: 116 kcal per 100 grams
+
+Ingredient Name: Canned tuna in oil
+Calories: 198 kcal per 100 grams
+
+Ingredient Name: Grilled salmon
+Calories: 206 kcal per 100 grams
+
+Ingredient Name: Grilled shrimp
+Calories: 99 kcal per 100 grams
+
+Ingredient Name: Grilled fish
+Calories: 124 kcal per 100 grams
+
+Ingredient Name: Fried fish
+Calories: 232 kcal per 100 grams
+
+Ingredient Name: Fried egg
+Calories: 196 kcal per 100 grams
+
+Ingredient Name: Beef sausage
+Calories: 301 kcal per 100 grams
+
+Ingredient Name: Chicken sausage
+Calories: 250 kcal per 100 grams
+
+Ingredient Name: Grilled beef burger
+Calories: 250 kcal per 100 grams
+
+Ingredient Name: Grilled chicken burger
+Calories: 190 kcal per 100 grams
+
+Ingredient Name: Chicken shawarma
+Calories: 250 kcal per 100 grams
+
+Ingredient Name: Beef shawarma
+Calories: 290 kcal per 100 grams
+
+Ingredient Name: Chicken liver
+Calories: 165 kcal per 100 grams
+
+Ingredient Name: Lamb liver
+Calories: 135 kcal per 100 grams
+
+Ingredient Name: Lamb heart
+Calories: 112 kcal per 100 grams
+
+Ingredient Name: Lentil soup
+Calories: 72 kcal per 100 grams
+
+Ingredient Name: Chicken soup
+Calories: 75 kcal per 100 grams
+
+Ingredient Name: Vegetable soup
+Calories: 45 kcal per 100 grams
+
+Ingredient Name: Cream of mushroom soup
+Calories: 110 kcal per 100 grams
+
+Ingredient Name: Foul medames
+Calories: 120 kcal per 100 grams
+
+Ingredient Name: Masabaha
+Calories: 177 kcal per 100 grams
+
+Ingredient Name: Hummus with tahini
+Calories: 267 kcal per 100 grams
+
+Ingredient Name: Labneh with thyme
+Calories: 235 kcal per 100 grams
+
+Ingredient Name: Sesame oil
+Calories: 884 kcal per 100 grams
+
+Ingredient Name: Vegetable oil
+Calories: 884 kcal per 100 grams
+
+Ingredient Name: Corn oil
+Calories: 884 kcal per 100 grams
+
+Ingredient Name: Mayonnaise
+Calories: 680 kcal per 100 grams
+
+Ingredient Name: Ketchup
+Calories: 112 kcal per 100 grams
+
+Ingredient Name: Mustard
+Calories: 66 kcal per 100 grams
+
+Ingredient Name: BBQ sauce
+Calories: 100 kcal per 100 grams
+
+Ingredient Name: Soy sauce
+Calories: 53 kcal per 100 grams
+
+Ingredient Name: White vinegar
+Calories: 18 kcal per 100 grams
+
+Ingredient Name: Apple cider vinegar
+Calories: 22 kcal per 100 grams
+
+Ingredient Name: Lemon
+Calories: 29 kcal per 100 grams
+
+Ingredient Name: Fresh orange juice
+Calories: 45 kcal per 100 grams
+
+Ingredient Name: Fresh apple juice
+Calories: 46 kcal per 100 grams
+
+Ingredient Name: Fresh mango juice
+Calories: 60 kcal per 100 grams
+
+Ingredient Name: Fresh pineapple juice
+Calories: 50 kcal per 100 grams
+
+Ingredient Name: Banana
+Calories: 89 kcal per 100 grams
+
+Ingredient Name: Apple
+Calories: 52 kcal per 100 grams
+
+Ingredient Name: Orange
+Calories: 47 kcal per 100 grams
+
+Ingredient Name: Kiwi
+Calories: 41 kcal per 100 grams
+
+Ingredient Name: Melon
+Calories: 34 kcal per 100 grams
+
+Ingredient Name: Watermelon
+Calories: 30 kcal per 100 grams
+
+Ingredient Name: Pineapple
+Calories: 50 kcal per 100 grams
+
+Ingredient Name: Mango
+Calories: 60 kcal per 100 grams
+
+Ingredient Name: Strawberry
+Calories: 32 kcal per 100 grams
+
+Ingredient Name: Blueberries
+Calories: 57 kcal per 100 grams
+
+Ingredient Name: Grapes
+Calories: 69 kcal per 100 grams
+
+Ingredient Name: Peach
+Calories: 39 kcal per 100 grams
+
+Ingredient Name: Apricot
+Calories: 48 kcal per 100 grams
+
+Ingredient Name: Dried dates
+Calories: 277 kcal per 100 grams
+
+Ingredient Name: Raisins
+Calories: 299 kcal per 100 grams
+
+Ingredient Name: Dried apricots
+Calories: 241 kcal per 100 grams
+
+Ingredient Name: Shredded coconut
+Calories: 660 kcal per 100 grams
+
+Ingredient Name: Almonds
+Calories: 579 kcal per 100 grams
+
+Ingredient Name: Cashews
+Calories: 553 kcal per 100 grams
+
+Ingredient Name: Pistachios
+Calories: 562 kcal per 100 grams
+
+Ingredient Name: Hazelnuts
+Calories: 628 kcal per 100 grams
+
+Ingredient Name: Walnuts
+Calories: 654 kcal per 100 grams
+
+Ingredient Name: Peanut butter
+Calories: 588 kcal per 100 grams
+
+Ingredient Name: Dark chocolate
+Calories: 546 kcal per 100 grams
+
+Ingredient Name: Milk chocolate
+Calories: 535 kcal per 100 grams
+
+Ingredient Name: Raw cocoa powder
+Calories: 228 kcal per 100 grams
+
+Ingredient Name: Custard powder
+Calories: 357 kcal per 100 grams
+
+Ingredient Name: Plain biscuits
+Calories: 430 kcal per 100 grams
+
+Ingredient Name: Chocolate biscuits
+Calories: 488 kcal per 100 grams
+
+Ingredient Name: Chocolate cake
+Calories: 370 kcal per 100 grams
+
+Ingredient Name: Donut
+Calories: 452 kcal per 100 grams
+
+Ingredient Name: Cupcake
+Calories: 395 kcal per 100 grams
+
+Ingredient Name: Corn flakes
+Calories: 375 kcal per 100 grams
+
+Ingredient Name: Vegan burger
+Calories: 150 kcal per 100 grams
+
+Ingredient Name: Almond milk
+Calories: 17 kcal per 100 grams
+
+Ingredient Name: Coconut milk
+Calories: 20 kcal per 100 grams
+
+Ingredient Name: Soy milk
+Calories: 33 kcal per 100 grams
+
+Ingredient Name: Tofu
+Calories: 76 kcal per 100 grams
+
+Ingredient Name: Uncooked bulgur
+Calories: 342 kcal per 100 grams
+
+Ingredient Name: Beetroot
+Calories: 43 kcal per 100 grams
+
+Ingredient Name: Sweet corn
+Calories: 86 kcal per 100 grams
+
+Ingredient Name: Peanuts
+Calories: 567 kcal per 100 grams
+
+Ingredient Name: Flax seeds
+Calories: 534 kcal per 100 grams
+
+Ingredient Name: Chia seeds
+Calories: 486 kcal per 100 grams
+
+Ingredient Name: Sunflower seeds
+Calories: 584 kcal per 100 grams
+
+Ingredient Name: Sweet potato
+Calories: 86 kcal per 100 grams
+
+Ingredient Name: Mint
+Calories: 44 kcal per 100 grams
+
+Ingredient Name: Fresh thyme
+Calories: 101 kcal per 100 grams
+
+Ingredient Name: Basil
+Calories: 22 kcal per 100 grams
+
+Ingredient Name: Cooked basmati rice
+Calories: 121 kcal per 100 grams
+
+Ingredient Name: Sayadiyah rice
+Calories: 175 kcal per 100 grams
+
+Ingredient Name: Egyptian koshari
+Calories: 164 kcal per 100 grams
+
+Ingredient Name: Stuffed grape leaves
+Calories: 175 kcal per 100 grams
+
+Ingredient Name: Chicken kabsa
+Calories: 234 kcal per 100 grams
+
+Ingredient Name: Molokhia stew
+Calories: 78 kcal per 100 grams
+
+Ingredient Name: Maqluba
+Calories: 240 kcal per 100 grams
+
+Ingredient Name: Béchamel pasta
+Calories: 280 kcal per 100 grams
+
+Ingredient Name: Mandi
+Calories: 280 kcal per 100 grams
+
+Ingredient Name: Jareesh
+Calories: 142 kcal per 100 grams
+
+Ingredient Name: Qursan
+Calories: 155 kcal per 100 grams
+
+Ingredient Name: Marqooq
+Calories: 165 kcal per 100 grams
+
+Ingredient Name: Vegetable sambusa
+Calories: 260 kcal per 100 grams
+
+Ingredient Name: Meat sambusa
+Calories: 310 kcal per 100 grams
+
+Ingredient Name: Cheese pastries
+Calories: 320 kcal per 100 grams
+
+Ingredient Name: Veggie pizza
+Calories: 266 kcal per 100 grams
+
+Ingredient Name: Cheese pizza
+Calories: 285 kcal per 100 grams
+
+Ingredient Name: Pepperoni pizza
+Calories: 298 kcal per 100 grams
+
+Ingredient Name: Lasagna
+Calories: 325 kcal per 100 grams
+
+Ingredient Name: Meat sfiha
+Calories: 330 kcal per 100 grams
+
+Ingredient Name: Mini pancakes
+Calories: 275 kcal per 100 grams
+
+Ingredient Name: Waffle
+Calories: 291 kcal per 100 grams
+
+Ingredient Name: Crepe
+Calories: 275 kcal per 100 grams
+
+Ingredient Name: Fresh pomegranate juice
+Calories: 58 kcal per 100 grams
+
+Ingredient Name: Fresh carrot juice
+Calories: 40 kcal per 100 grams
+
+Ingredient Name: Laban (fermented milk)
+Calories: 37 kcal per 100 grams
+
+Ingredient Name: Tamriya
+Calories: 380 kcal per 100 grams
+
+Ingredient Name: Om Ali dessert
+Calories: 345 kcal per 100 grams
+
+Ingredient Name: Kunafa
+Calories: 400 kcal per 100 grams
+
+Ingredient Name: Basbousa
+Calories: 450 kcal per 100 grams
+
+Ingredient Name: Luqaimat
+Calories: 370 kcal per 100 grams
+
+Ingredient Name: Muhallabiya
+Calories: 160 kcal per 100 grams
+
+Ingredient Name: Crème caramel
+Calories: 153 kcal per 100 grams
+
+Ingredient Name: Vanilla ice cream
+Calories: 207 kcal per 100 grams
+
+Ingredient Name: Chocolate ice cream
+Calories: 216 kcal per 100 grams
+
+Ingredient Name: Turkish coffee
+Calories: 2 kcal per 100 grams
+
+Ingredient Name: American coffee
+Calories: 1 kcal per 100 grams
+
+Ingredient Name: Black tea (no sugar)
+Calories: 1 kcal per 100 grams
+
+Ingredient Name: Green tea
+Calories: 1 kcal per 100 grams
+
+Ingredient Name: Plain Nescafe
+Calories: 2 kcal per 100 grams
+
+Ingredient Name: Energy drink
+Calories: 45 kcal per 100 grams
+
+Ingredient Name: Soft drink (Coca-Cola)
+Calories: 42 kcal per 100 grams
+
+Ingredient Name: Coconut water
+Calories: 19 kcal per 100 grams
+
+Ingredient Name: Water
+Calories: 0 kcal per 100 grams
+
+Ingredient Name: Butter
+Calories: 717 kcal per 100 grams
+
+Ingredient Name: Ghee
+Calories: 900 kcal per 100 grams
+
+Ingredient Name: Chicken broth
+Calories: 5 kcal per 100 grams
+
+Ingredient Name: Beef broth
+Calories: 7 kcal per 100 grams
+
+Ingredient Name: Mixed dried herbs
+Calories: 250 kcal per 100 grams
+
+Ingredient Name: Mixed spices
+Calories: 230 kcal per 100 grams
+
+Ingredient Name: Black pepper
+Calories: 251 kcal per 100 grams
+
+Ingredient Name: Cumin
+Calories: 375 kcal per 100 grams
+
+Ingredient Name: Dried coriander
+Calories: 270 kcal per 100 grams
+
+Ingredient Name: Cinnamon
+Calories: 247 kcal per 100 grams
+
+Ingredient Name: Clove
+Calories: 274 kcal per 100 grams
+
+Ingredient Name: Ginger
+Calories: 80 kcal per 100 grams
+
+Ingredient Name: Turmeric
+Calories: 312 kcal per 100 grams
+
+Ingredient Name: Cardamom
+Calories: 311 kcal per 100 grams
