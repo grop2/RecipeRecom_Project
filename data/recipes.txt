@@ -1,7 +1,7 @@
 id: 1
 name: Spaghetti
 ingredients: pasta,tomato,garlic
-calories: 350
+calories: 351
 instructions: Boil pasta and add sauce
 
 id: 2
