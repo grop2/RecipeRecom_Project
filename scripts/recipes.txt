@@ -1,0 +1,1800 @@
+id: 1
+name: Spaghetti
+ingredients: pasta,tomato,garlic
+calories: 351
+instructions: Boil pasta and add sauce
+
+id: 2
+name: Salad
+ingredients: lettuce,tomato,cucumber
+calories: 120
+instructions: Mix all ingredients
+
+id: 3
+name: Fried Egg
+ingredients: egg,salt,oil
+calories: 90
+instructions: Fry the egg with oil and salt
+
+id: 4
+name: Chicken Soup
+ingredients: chicken,carrot,onion,celery
+calories: 250
+instructions: Boil chicken with vegetables
+
+id: 5
+name: Pancakes
+ingredients: flour,milk,egg,sugar
+calories: 300
+instructions: Mix ingredients and fry on pan
+
+id: 6
+name: Grilled Cheese
+ingredients: bread,cheese,butter
+calories: 400
+instructions: Grill bread with cheese and butter
+
+id: 7
+name: Beef Stew
+ingredients: beef,potato,carrot,onion
+calories: 450
+instructions: Cook beef and vegetables slowly
+
+id: 8
+name: Vegetable Stir Fry
+ingredients: broccoli,carrot,pepper,soy sauce
+calories: 200
+instructions: Stir fry vegetables with soy sauce
+
+id: 9
+name: Omelette
+ingredients: egg,milk,salt,pepper
+calories: 180
+instructions: Beat eggs and cook in pan
+
+id: 10
+name: Fruit Salad
+ingredients: apple,banana,orange,grapes
+calories: 150
+instructions: Chop fruits and mix
+
+id: 11
+name: Tuna Sandwich
+ingredients: bread,tuna,mayonnaise,lettuce
+calories: 350
+instructions: Assemble sandwich with tuna and veggies
+
+id: 12
+name: Mashed Potatoes
+ingredients: potato,butter,milk
+calories: 220
+instructions: Boil potatoes and mash with butter and milk
+
+id: 13
+name: Caesar Salad
+ingredients: lettuce,chicken,croutons,parmesan
+calories: 320
+instructions: Mix all ingredients with dressing
+
+id: 14
+name: Tomato Soup
+ingredients: tomato,cream,onion,garlic
+calories: 180
+instructions: Cook tomatoes and blend with cream
+
+id: 15
+name: Fish Tacos
+ingredients: fish,tortilla,cabbage,salsa
+calories: 350
+instructions: Grill fish and assemble tacos
+
+id: 16
+name: Beef Burger
+ingredients: beef bun,lettuce,tomato,cheese
+calories: 520
+instructions: Grill beef and assemble burger
+
+id: 17
+name: Chocolate Cake
+ingredients: flour,sugar,cocoa,egg,butter
+calories: 450
+instructions: Mix ingredients and bake
+
+id: 18
+name: Lentil Soup
+ingredients: lentils,onion,carrot,garlic
+calories: 230
+instructions: Boil lentils and vegetables
+
+id: 19
+name: Veggie Pizza
+ingredients: dough,tomato,cheese,pepper
+calories: 400
+instructions: Bake pizza with toppings
+
+id: 20
+name: Apple Pie
+ingredients: apple,sugar,flour,butter
+calories: 380
+instructions: Bake pie with apple filling
+
+id: 21
+name: Chicken Curry
+ingredients: chicken,onion,tomato,curry powder
+calories: 400
+instructions: Cook chicken with spices and sauce
+
+id: 22
+name: Beef Tacos
+ingredients: beef,tortilla,lettuce,cheese
+calories: 450
+instructions: Cook beef and assemble tacos
+
+id: 23
+name: Scrambled Eggs
+ingredients: egg,butter,salt,pepper
+calories: 160
+instructions: Scramble eggs in butter
+
+id: 24
+name: Greek Salad
+ingredients: tomato,cucumber,olive,cheese
+calories: 220
+instructions: Mix fresh vegetables with cheese
+
+id: 25
+name: Spaghetti Bolognese
+ingredients: pasta,beef,tomato,onion
+calories: 500
+instructions: Cook pasta and meat sauce
+
+id: 26
+name: Vegetable Soup
+ingredients: carrot,celery,onion,potato
+calories: 180
+instructions: Boil vegetables in broth
+
+id: 27
+name: Chicken Sandwich
+ingredients: bread,chicken,lettuce,tomato
+calories: 350
+instructions: Assemble sandwich with cooked chicken
+
+id: 28
+name: Pizza Margherita
+ingredients: dough,tomato,cheese,basil
+calories: 420
+instructions: Bake pizza with fresh toppings
+
+id: 29
+name: French Toast
+ingredients: bread,egg,milk,cinnamon
+calories: 300
+instructions: Dip bread in egg mix and fry
+
+id: 30
+name: Roast Chicken
+ingredients: chicken,herbs,garlic,lemon
+calories: 600
+instructions: Roast chicken with herbs
+
+id: 31
+name: Vegetable Pasta
+ingredients: pasta,broccoli,carrot,garlic
+calories: 350
+instructions: Cook pasta and sauté vegetables
+
+id: 32
+name: Tomato Bruschetta
+ingredients: bread,tomato,garlic,basil
+calories: 150
+instructions: Toast bread and top with tomato mix
+
+id: 33
+name: Chili Con Carne
+ingredients: beef,beans,tomato,chili
+calories: 480
+instructions: Cook beef with beans and spices
+
+id: 34
+name: Pumpkin Soup
+ingredients: pumpkin,cream,onion,garlic
+calories: 200
+instructions: Cook and blend pumpkin soup
+
+id: 35
+name: Chicken Salad
+ingredients: chicken,lettuce,mayonnaise,celery
+calories: 320
+instructions: Mix cooked chicken with salad
+
+id: 36
+name: Beef Stew
+ingredients: beef,potato,carrot,onion
+calories: 470
+instructions: Slow cook beef with vegetables
+
+id: 37
+name: Mushroom Risotto
+ingredients: rice,mushroom,onion,cheese
+calories: 400
+instructions: Cook rice slowly with mushrooms
+
+id: 38
+name: Fish Curry
+ingredients: fish,coconut milk,curry powder,onion
+calories: 420
+instructions: Cook fish in coconut curry sauce
+
+id: 39
+name: Vegetable Omelette
+ingredients: egg,spinach,tomato,cheese
+calories: 250
+instructions: Cook eggs with vegetables and cheese
+
+id: 40
+name: Chocolate Mousse
+ingredients: chocolate,cream,sugar,egg
+calories: 300
+instructions: Mix ingredients and chill
+
+id: 41
+name: Grilled Salmon
+ingredients: salmon,lemon,garlic,olive oil
+calories: 450
+instructions: Grill salmon with lemon and garlic
+
+id: 42
+name: Pancakes
+ingredients: flour,egg,milk,sugar
+calories: 350
+instructions: Mix ingredients and cook on skillet
+
+id: 43
+name: Caesar Salad
+ingredients: lettuce,croutons,cheese,caesar dressing
+calories: 280
+instructions: Toss salad with dressing
+
+id: 44
+name: Beef Burger
+ingredients: beef,bun,lettuce,tomato,cheese
+calories: 550
+instructions: Grill beef and assemble burger
+
+id: 45
+name: Vegetable Stir Fry
+ingredients: broccoli,carrot,bell pepper,soy sauce
+calories: 300
+instructions: Stir fry vegetables with soy sauce
+
+id: 46
+name: Fruit Smoothie
+ingredients: banana,strawberry,yogurt,honey
+calories: 220
+instructions: Blend all ingredients
+
+id: 47
+name: Chicken Alfredo
+ingredients: pasta,cream,chicken,parmesan
+calories: 600
+instructions: Cook pasta and mix with sauce
+
+id: 48
+name: Tomato Soup
+ingredients: tomato,onion,garlic,cream
+calories: 180
+instructions: Cook and blend tomatoes
+
+id: 49
+name: Garlic Bread
+ingredients: bread,garlic,butter,parsley
+calories: 200
+instructions: Toast bread with garlic butter
+
+id: 50
+name: Beef Kebabs
+ingredients: beef,onion,pepper,spices
+calories: 480
+instructions: Skewer beef and grill
+
+id: 51
+name: Avocado Toast
+ingredients: avocado,bread,lemon juice,chili flakes
+calories: 250
+instructions: Mash avocado and spread on toasted bread
+
+id: 52
+name: Quinoa Salad
+ingredients: quinoa,cucumber,tomato,feta,olive oil
+calories: 320
+instructions: Mix all ingredients and chill
+
+id: 53
+name: Sweet Potato Fries
+ingredients: sweet potato,olive oil,salt,pepper
+calories: 270
+instructions: Bake sweet potato fries until crispy
+
+id: 54
+name: Shakshuka
+ingredients: eggs,tomato,onion,pepper,spices
+calories: 400
+instructions: Cook eggs in spicy tomato sauce
+
+id: 55
+name: Banana Oatmeal
+ingredients: banana,oats,milk,honey,cinnamon
+calories: 310
+instructions: Cook oats with milk and add banana
+
+id: 56
+name: Caprese Salad
+ingredients: tomato,mozzarella,basil,olive oil,balsamic
+calories: 280
+instructions: Layer tomato and mozzarella with basil
+
+id: 57
+name: Mango Chicken
+ingredients: chicken,mango,soy sauce,ginger,garlic
+calories: 530
+instructions: Cook chicken with mango sauce
+
+id: 58
+name: Chia Pudding
+ingredients: chia seeds,milk,honey,vanilla
+calories: 220
+instructions: Soak chia seeds overnight in milk
+
+id: 59
+name: Stuffed Peppers
+ingredients: bell pepper,quinoa,beans,cheese,tomato sauce
+calories: 450
+instructions: Stuff peppers and bake
+
+id: 60
+name: Basil Pesto Pasta
+ingredients: pasta,basil,parmesan,pine nuts,olive oil
+calories: 550
+instructions: Blend pesto and toss with pasta
+
+id: 61
+name: Grilled Salmon
+ingredients: salmon,lemon,dill,olive oil,garlic
+calories: 600
+instructions: Grill salmon with lemon and dill
+
+id: 62
+name: Beef Stir Fry
+ingredients: beef,soy sauce,garlic,broccoli,carrot
+calories: 480
+instructions: Stir fry beef with vegetables
+
+id: 63
+name: Greek Yogurt Parfait
+ingredients: greek yogurt,granola,honey,berries
+calories: 300
+instructions: Layer yogurt with granola and berries
+
+id: 64
+name: Tomato Soup
+ingredients: tomato,onion,garlic,basil,cream
+calories: 350
+instructions: Simmer tomatoes and blend
+
+id: 65
+name: Avocado Smoothie
+ingredients: avocado,milk,honey,spinach
+calories: 320
+instructions: Blend all ingredients until smooth
+
+id: 66
+name: Chicken Caesar Salad
+ingredients: chicken,lettuce,parmesan,croutons,caesar dressing
+calories: 450
+instructions: Toss salad with dressing
+
+id: 67
+name: Pumpkin Soup
+ingredients: pumpkin,onion,cream,garlic,nutmeg
+calories: 400
+instructions: Cook and blend pumpkin soup
+
+id: 68
+name: Vegetable Curry
+ingredients: potato,carrot,peas,coconut milk,curry powder
+calories: 500
+instructions: Simmer vegetables in curry sauce
+
+id: 69
+name: Fruit Salad
+ingredients: apple,orange,banana,grapes,honey
+calories: 280
+instructions: Mix chopped fruits with honey
+
+id: 70
+name: Shrimp Tacos
+ingredients: shrimp,tortilla,cabbage,avocado,salsa
+calories: 520
+instructions: Assemble tacos with shrimp and toppings
+
+id: 71
+name: Spinach Omelette
+ingredients: spinach,eggs,cheese,onion
+calories: 330
+instructions: Cook omelette with spinach and cheese
+
+id: 72
+name: Chocolate Mousse
+ingredients: chocolate,cream,sugar,eggs
+calories: 450
+instructions: Whip mousse until fluffy
+
+id: 73
+name: Lentil Soup
+ingredients: lentils,carrot,onion,celery,spices
+calories: 400
+instructions: Simmer lentils and vegetables
+
+id: 74
+name: Cauliflower Rice
+ingredients: cauliflower,olive oil,garlic,salt
+calories: 200
+instructions: Pulse cauliflower and sauté
+
+id: 75
+name: Beet Salad
+ingredients: beetroot,goat cheese,walnuts,arugula,olive oil
+calories: 350
+instructions: Toss salad with dressing
+
+id: 76
+name: Pancakes
+ingredients: flour,milk,eggs,sugar,baking powder
+calories: 400
+instructions: Cook pancakes on griddle
+
+id: 77
+name: Minestrone Soup
+ingredients: beans,pasta,tomato,vegetables,herbs
+calories: 480
+instructions: Simmer all ingredients
+
+id: 78
+name: Apple Crumble
+ingredients: apple,oats,butter,sugar,cinnamon
+calories: 500
+instructions: Bake apple crumble until golden
+
+id: 79
+name: Garlic Bread
+ingredients: bread,garlic,butter,parsley
+calories: 320
+instructions: Toast bread with garlic butter
+
+id: 80
+name: Falafel
+ingredients: chickpeas,onion,garlic,parsley,spices
+calories: 430
+instructions: Fry falafel balls until crispy
+
+id: 81
+name: Chicken Alfredo
+ingredients: chicken,cream,parmesan,garlic,fettuccine
+calories: 700
+instructions: Cook pasta and mix with creamy chicken sauce
+
+id: 82
+name: Mango Salsa
+ingredients: mango,onion,cilantro,jalapeno,lime
+calories: 150
+instructions: Mix all ingredients for fresh salsa
+
+id: 83
+name: Beef Tacos
+ingredients: beef,taco shells,lettuce,cheese,salsa
+calories: 600
+instructions: Fill taco shells with beef and toppings
+
+id: 84
+name: Quinoa Salad
+ingredients: quinoa,cucumber,tomato,feta,olive oil
+calories: 350
+instructions: Mix cooked quinoa with vegetables and cheese
+
+id: 85
+name: Stuffed Peppers
+ingredients: bell peppers,ground beef,rice,tomato sauce,cheese
+calories: 550
+instructions: Bake stuffed peppers with filling
+
+id: 86
+name: Chickpea Curry
+ingredients: chickpeas,coconut milk,tomato,curry powder,onion
+calories: 500
+instructions: Simmer chickpeas in curry sauce
+
+id: 87
+name: Zucchini Noodles
+ingredients: zucchini,olive oil,garlic,parmesan,basil
+calories: 300
+instructions: Sauté zucchini noodles with garlic and cheese
+
+id: 88
+name: Pulled Pork Sandwich
+ingredients: pork,bbq sauce,buns,coleslaw
+calories: 650
+instructions: Serve pulled pork with bbq sauce in buns
+
+id: 89
+name: French Toast
+ingredients: bread,eggs,milk,cinnamon,maple syrup
+calories: 400
+instructions: Cook bread soaked in egg mixture
+
+id: 90
+name: Caprese Salad
+ingredients: tomato,mozzarella,basil,olive oil,balsamic
+calories: 320
+instructions: Layer tomato, cheese, and basil with dressing
+
+id: 91
+name: Vegetable Stir Fry
+ingredients: broccoli,carrot,bell pepper,soy sauce,garlic
+calories: 400
+instructions: Stir fry vegetables with sauce
+
+id: 92
+name: Chocolate Brownies
+ingredients: chocolate,butter,sugar,flour,eggs
+calories: 450
+instructions: Bake rich chocolate brownies
+
+id: 93
+name: Chicken Noodle Soup
+ingredients: chicken,noodles,carrot,celery,onion
+calories: 350
+instructions: Simmer chicken and vegetables with noodles
+
+id: 94
+name: Greek Salad
+ingredients: cucumber,tomato,olives,feta,onion
+calories: 300
+instructions: Toss vegetables with cheese and dressing
+
+id: 95
+name: Avocado Toast
+ingredients: bread,avocado,lemon,salt,pepper
+calories: 250
+instructions: Mash avocado on toasted bread
+
+id: 96
+name: Spaghetti Bolognese
+ingredients: ground beef,tomato sauce,spaghetti,garlic,onion
+calories: 650
+instructions: Cook pasta with meat sauce
+
+id: 97
+name: Roasted Vegetables
+ingredients: carrot,broccoli,cauliflower,olive oil,herbs
+calories: 300
+instructions: Roast vegetables until tender
+
+id: 98
+name: Caesar Wrap
+ingredients: tortilla,lettuce,chicken,parmesan,caesar dressing
+calories: 450
+instructions: Wrap salad ingredients in tortilla
+
+id: 99
+name: Pumpkin Pie
+ingredients: pumpkin,sugar,cream,eggs,pie crust
+calories: 500
+instructions: Bake spiced pumpkin filling in crust
+
+id: 100
+name: Fish and Chips
+ingredients: fish,flour,oil,potato,salt
+calories: 600
+instructions: Fry battered fish and potatoes
+
+id: 101
+name: Tomato Bruschetta
+ingredients: bread,tomato,garlic,basil,olive oil
+calories: 300
+instructions: Top toasted bread with tomato mix
+
+id: 102
+name: Lamb Kebabs
+ingredients: lamb,onion,spices,olive oil,skewers
+calories: 550
+instructions: Grill marinated lamb on skewers
+
+id: 103
+name: Vegetable Lasagna
+ingredients: pasta,sauce,cheese,spinach,zucchini
+calories: 650
+instructions: Layer pasta with vegetables and cheese
+
+id: 104
+name: Banana Smoothie
+ingredients: banana,milk,honey,yogurt
+calories: 280
+instructions: Blend all ingredients until smooth
+
+id: 105
+name: Chicken Quesadilla
+ingredients: tortilla,chicken,cheese,peppers,onion
+calories: 550
+instructions: Cook tortilla with chicken and cheese
+
+id: 106
+name: Roast Beef
+ingredients: beef,garlic,rosemary,salt,pepper
+calories: 700
+instructions: Roast beef with herbs and seasoning
+
+id: 107
+name: Mushroom Risotto
+ingredients: rice,mushrooms,parmesan,broth,onion
+calories: 480
+instructions: Cook rice slowly with mushrooms and broth
+
+id: 108
+name: Blueberry Muffins
+ingredients: blueberries,flour,sugar,butter,eggs
+calories: 400
+instructions: Bake muffins with fresh blueberries
+
+id: 109
+name: Clam Chowder
+ingredients: clams,potatoes,cream,onion,bacon
+calories: 450
+instructions: Simmer clams with creamy soup base
+
+id: 110
+name: Sweet Potato Fries
+ingredients: sweet potatoes,oil,salt,pepper
+calories: 350
+instructions: Bake or fry sweet potato fries
+
+id: 111
+name: Beef Stroganoff
+ingredients: beef,mushrooms,onion,sour cream,noodles
+calories: 650
+instructions: Cook beef with mushrooms and creamy sauce served over noodles
+
+id: 112
+name: Chicken Tikka Masala
+ingredients: chicken,tomato cream sauce,spices,garlic,ginger
+calories: 700
+instructions: Marinate chicken and cook in spiced creamy tomato sauce
+
+id: 113
+name: Vegetable Fried Rice
+ingredients: rice,carrot,peas,egg,soy sauce
+calories: 400
+instructions: Stir-fry rice with vegetables and scrambled eggs
+
+id: 114
+name: Lentil Soup
+ingredients: lentils,carrot,onion,celery,spices
+calories: 350
+instructions: Simmer lentils with vegetables and spices
+
+id: 115
+name: BBQ Chicken Wings
+ingredients: chicken wings,bbq sauce,honey,garlic
+calories: 600
+instructions: Bake chicken wings with sticky bbq sauce
+
+id: 116
+name: Spinach Omelette
+ingredients: spinach,eggs,cheese,onion,salt
+calories: 300
+instructions: Cook eggs with spinach and cheese
+
+id: 117
+name: Margherita Pizza
+ingredients: pizza dough,tomato,basil,mozzarella,olive oil
+calories: 700
+instructions: Bake pizza with fresh tomato and cheese
+
+id: 118
+name: Tuna Salad
+ingredients: tuna,lettuce,onion,mayonnaise,celery
+calories: 350
+instructions: Mix tuna with vegetables and dressing
+
+id: 119
+name: Beetroot Salad
+ingredients: beetroot,goat cheese,walnuts,arugula,balsamic
+calories: 400
+instructions: Combine roasted beetroot with cheese and nuts
+
+id: 120
+name: Chicken Caesar Salad
+ingredients: chicken,lettuce,croutons,parmesan,caesar dressing
+calories: 450
+instructions: Toss grilled chicken with classic Caesar salad
+
+id: 121
+name: Shrimp Scampi
+ingredients: shrimp,garlic,butter,lemon,parsley
+calories: 500
+instructions: Sauté shrimp in garlic butter and lemon sauce
+
+id: 122
+name: Greek Yogurt Parfait
+ingredients: greek yogurt,honey,granola,berries
+calories: 300
+instructions: Layer yogurt with granola and fresh berries
+
+id: 123
+name: Vegetable Soup
+ingredients: carrot,celery,tomato,onion,beans
+calories: 320
+instructions: Simmer mixed vegetables in broth
+
+id: 124
+name: Meatloaf
+ingredients: ground beef,bread crumbs,egg,onion,ketchup
+calories: 600
+instructions: Bake seasoned meat mixture in loaf shape
+
+id: 125
+name: Cobb Salad
+ingredients: lettuce,chicken,avocado,bacon,blue cheese
+calories: 550
+instructions: Layer salad ingredients with dressing
+
+id: 126
+name: Apple Pie
+ingredients: apple,sugar,cinnamon,butter,pie crust
+calories: 480
+instructions: Bake spiced apple filling in pie crust
+
+id: 127
+name: Minestrone Soup
+ingredients: beans,pasta,tomato,carrot,celery
+calories: 350
+instructions: Cook hearty vegetable and pasta soup
+
+id: 128
+name: Buffalo Wings
+ingredients: chicken wings,hot sauce,butter,garlic
+calories: 620
+instructions: Fry wings and toss in spicy sauce
+
+id: 129
+name: Vegetable Curry
+ingredients: cauliflower,potato,peas,curry spices,coconut milk
+calories: 500
+instructions: Simmer vegetables in creamy curry sauce
+
+id: 130
+name: Ratatouille
+ingredients: eggplant,zucchini,tomato,bell pepper,herbs
+calories: 400
+instructions: Bake mixed vegetables in herb sauce
+
+id: 131
+name: French Onion Soup
+ingredients: onion,beef broth,bread,cheese,butter
+calories: 380
+instructions: Simmer caramelized onions with broth and cheese
+
+id: 132
+name: Chocolate Chip Cookies
+ingredients: flour,sugar,butter,eggs,chocolate chips
+calories: 450
+instructions: Bake cookies with chocolate chunks
+
+id: 133
+name: Chicken Fried Rice
+ingredients: chicken,rice,egg,peas,soy sauce
+calories: 520
+instructions: Stir-fry chicken with rice and vegetables
+
+id: 134
+name: Beef Burger
+ingredients: ground beef,buns,lettuce,tomato,cheese
+calories: 650
+instructions: Grill beef patties and assemble burgers
+
+id: 135
+name: Stuffed Mushrooms
+ingredients: mushrooms,cheese,breadcrumbs,garlic,herbs
+calories: 400
+instructions: Bake mushrooms stuffed with cheese and herbs
+
+id: 136
+name: Clam Linguine
+ingredients: clam,pasta,garlic,butter,parsley
+calories: 500
+instructions: Cook pasta with clam sauce
+
+id: 137
+name: Chocolate Mousse
+ingredients: chocolate,cream,sugar,eggs
+calories: 350
+instructions: Chill creamy chocolate dessert
+
+id: 138
+name: Vegetable Omelette
+ingredients: eggs,spinach,mushroom,pepper,cheese
+calories: 320
+instructions: Cook eggs with assorted vegetables
+
+id: 139
+name: Banana Bread
+ingredients: banana,flour,sugar,butter,eggs
+calories: 420
+instructions: Bake moist banana-flavored bread
+
+id: 140
+name: Seafood Paella
+ingredients: rice,shrimp,mussels,chicken,saffron
+calories: 700
+instructions: Cook rice with mixed seafood and spices
+
+id: 141
+name: Quinoa Salad
+ingredients: quinoa,cucumber,tomato,feta,lemon
+calories: 350
+instructions: Mix cooked quinoa with fresh vegetables and feta cheese
+
+id: 142
+name: Chicken Parmesan
+ingredients: chicken,parmesan,tomato sauce,mozzarella,breadcrumbs
+calories: 650
+instructions: Breaded chicken baked with tomato sauce and cheese
+
+id: 143
+name: Vegetable Stir Fry
+ingredients: broccoli,bell pepper,carrot,soy sauce,ginger
+calories: 400
+instructions: Stir fry mixed vegetables with soy sauce and ginger
+
+id: 144
+name: Beef Tacos
+ingredients: ground beef,taco shells,lettuce,cheese,salsa
+calories: 600
+instructions: Cook beef and serve in taco shells with toppings
+
+id: 145
+name: Caprese Salad
+ingredients: tomato,mozzarella,basil,olive oil,balsamic
+calories: 300
+instructions: Layer tomato and mozzarella with basil and dressing
+
+id: 146
+name: Butternut Squash Soup
+ingredients: butternut squash,onion,garlic,cream,spices
+calories: 380
+instructions: Blend roasted squash with cream and spices
+
+id: 147
+name: Chicken Quesadilla
+ingredients: chicken,cheese,tortilla,pepper,onion
+calories: 550
+instructions: Grill tortillas filled with chicken and cheese
+
+id: 148
+name: Beef Chili
+ingredients: ground beef,beans,tomato,onion,chili spices
+calories: 600
+instructions: Simmer beef with beans and chili seasoning
+
+id: 149
+name: Zucchini Noodles
+ingredients: zucchini,olive oil,garlic,parmesan,basil
+calories: 300
+instructions: Sauté spiralized zucchini with garlic and cheese
+
+id: 150
+name: Eggplant Parmesan
+ingredients: eggplant,tomato sauce,mozzarella,parmesan,breadcrumbs
+calories: 620
+instructions: Bake breaded eggplant with tomato and cheese
+
+id: 151
+name: Chicken Alfredo
+ingredients: chicken,cream,parmesan,pasta,garlic
+calories: 700
+instructions: Cook chicken in creamy cheese sauce served over pasta
+
+id: 152
+name: Mango Salsa
+ingredients: mango,onion,jalapeno,lime,cilantro
+calories: 200
+instructions: Mix diced mango with fresh salsa ingredients
+
+id: 153
+name: Turkey Meatballs
+ingredients: ground turkey,breadcrumbs,egg,parmesan,herbs
+calories: 550
+instructions: Bake turkey meatballs with seasoning
+
+id: 154
+name: Vegetable Lasagna
+ingredients: pasta,spinach,tomato sauce,ricotta,mozzarella
+calories: 650
+instructions: Layer pasta with vegetables and cheeses
+
+id: 155
+name: Pumpkin Pie
+ingredients: pumpkin,sugar,cream,eggs,spices
+calories: 480
+instructions: Bake creamy spiced pumpkin filling in crust
+
+id: 156
+name: Shrimp Tacos
+ingredients: shrimp,taco shells,cabbage,salsa,cream
+calories: 550
+instructions: Serve cooked shrimp in tacos with fresh toppings
+
+id: 157
+name: Baked Ziti
+ingredients: pasta,tomato sauce,ricotta,mozzarella,parmesan
+calories: 650
+instructions: Bake pasta with tomato sauce and cheeses
+
+id: 158
+name: Greek Salad
+ingredients: cucumber,tomato,olive,red onion,feta
+calories: 350
+instructions: Combine fresh vegetables with olives and feta cheese
+
+id: 159
+name: Cauliflower Rice
+ingredients: cauliflower,olive oil,garlic,salt,pepper
+calories: 250
+instructions: Pulse cauliflower to rice size and sauté lightly
+
+id: 160
+name: French Toast
+ingredients: bread,eggs,milk,cinnamon,maple syrup
+calories: 400
+instructions: Cook bread soaked in egg mixture and serve with syrup
+
+id: 161
+name: Teriyaki Chicken
+ingredients: chicken,soy sauce,sugar,ginger,garlic
+calories: 600
+instructions: Cook chicken with sweet soy-based teriyaki sauce
+
+id: 162
+name: Vegetable Samosas
+ingredients: potato,peas,spices,flour,oil
+calories: 450
+instructions: Fry spiced vegetable-filled pastry pockets
+
+id: 163
+name: Baked Salmon
+ingredients: salmon,lemon,dill,olive oil,garlic
+calories: 550
+instructions: Bake salmon with herbs and lemon
+
+id: 164
+name: Rice Pudding
+ingredients: rice,milk,sugar,cinnamon,vanilla
+calories: 350
+instructions: Cook rice in sweetened milk until creamy
+
+id: 165
+name: Chickpea Curry
+ingredients: chickpeas,tomato,coconut milk,spices,garlic
+calories: 500
+instructions: Simmer chickpeas in rich coconut curry sauce
+
+id: 166
+name: Stuffed Bell Peppers
+ingredients: bell pepper,ground beef,rice,tomato,onion
+calories: 600
+instructions: Bake bell peppers filled with meat and rice
+
+id: 167
+name: Vegetable Tempura
+ingredients: mixed vegetables,flour,egg,cold water,oil
+calories: 400
+instructions: Deep fry battered vegetables until crisp
+
+id: 168
+name: Chicken Satay
+ingredients: chicken,peanut sauce,soy sauce,garlic,lime
+calories: 550
+instructions: Grilled chicken skewers served with peanut sauce
+
+id: 169
+name: Ratatouille Tart
+ingredients: pastry,eggplant,zucchini,tomato,basil
+calories: 480
+instructions: Bake vegetable tart with fresh herbs
+
+id: 170
+name: Cinnamon Rolls
+ingredients: flour,sugar,butter,cinnamon,yeast
+calories: 450
+instructions: Bake sweet rolled dough with cinnamon filling
+
+id: 171
+name: Spicy Korean Noodles
+ingredients: noodles,gochujang,sesame oil,scallions,carrot
+calories: 520
+instructions: Stir-fry noodles with spicy Korean chili paste and veggies
+
+id: 172
+name: Avocado Toast
+ingredients: bread,avocado,lemon,salt,pepper
+calories: 280
+instructions: Mashed avocado spread on toasted bread with seasoning
+
+id: 173
+name: Black Bean Burger
+ingredients: black beans,breadcrumbs,onion,garlic,spices
+calories: 600
+instructions: Pan-fried patties made from black beans and spices
+
+id: 174
+name: Thai Green Curry
+ingredients: chicken,coconut milk,green curry paste,basil,eggplant
+calories: 650
+instructions: Simmer chicken in fragrant green curry sauce
+
+id: 175
+name: Apple Crisp
+ingredients: apple,oats,butter,brown sugar,cinnamon
+calories: 420
+instructions: Baked spiced apples topped with oat crumble
+
+id: 176
+name: Lentil Soup
+ingredients: lentils,onion,carrot,celery,garlic
+calories: 350
+instructions: Hearty soup made with lentils and vegetables
+
+id: 177
+name: Beet Salad
+ingredients: beetroot,goat cheese,walnuts,arugula,balsamic
+calories: 400
+instructions: Roasted beet salad with creamy cheese and nuts
+
+id: 178
+name: Falafel Wrap
+ingredients: falafel,tahini,salad,pita bread
+calories: 550
+instructions: Chickpea patties wrapped with fresh veggies and sauce
+
+id: 179
+name: Chicken Tikka Masala
+ingredients: chicken,tomato cream sauce,spices,cream
+calories: 700
+instructions: Marinated chicken in rich spiced tomato sauce
+
+id: 180
+name: Stuffed Mushrooms
+ingredients: mushrooms,cheese,garlic,breadcrumbs,parsley
+calories: 450
+instructions: Baked mushrooms filled with cheesy garlic stuffing
+
+id: 181
+name: Seafood Paella
+ingredients: rice,shrimp,mussels,chicken,saffron
+calories: 750
+instructions: Spanish rice dish with mixed seafood and spices
+
+id: 182
+name: Chocolate Mousse
+ingredients: chocolate,cream,sugar,eggs,vanilla
+calories: 400
+instructions: Light and airy chocolate dessert
+
+id: 183
+name: Mediterranean Wrap
+ingredients: pita,chicken,hummus,cucumber,tomato
+calories: 520
+instructions: Wrap filled with chicken and fresh Mediterranean flavors
+
+id: 184
+name: Cornbread
+ingredients: cornmeal,flour,butter,milk,egg
+calories: 380
+instructions: Soft bread made with cornmeal
+
+id: 185
+name: Beef Stroganoff
+ingredients: beef,mushroom,sour cream,onion,noodles
+calories: 680
+instructions: Creamy beef and mushroom sauce served over noodles
+
+id: 186
+name: Shakshuka
+ingredients: eggs,tomato,onion,pepper,spices
+calories: 420
+instructions: Eggs poached in spicy tomato sauce
+
+id: 187
+name: Vegetarian Chili
+ingredients: beans,tomato,onion,pepper,spices
+calories: 500
+instructions: Hearty bean chili with vegetables
+
+id: 188
+name: Grilled Cheese Sandwich
+ingredients: bread,cheese,butter
+calories: 400
+instructions: Toasted sandwich with melted cheese
+
+id: 189
+name: Chicken Caesar Salad
+ingredients: chicken,romaine,parmesan,croutons,caesar dressing
+calories: 600
+instructions: Classic salad with grilled chicken and creamy dressing
+
+id: 190
+name: Minestrone Soup
+ingredients: beans,pasta,tomato,carrot,celery
+calories: 380
+instructions: Italian vegetable soup with beans and pasta
+
+id: 191
+name: French Ratatouille
+ingredients: eggplant,zucchini,tomato,pepper,herbs
+calories: 420
+instructions: Slow-cooked vegetable stew from Provence
+
+id: 192
+name: Peach Cobbler
+ingredients: peach,sugar,butter,flour,cinnamon
+calories: 450
+instructions: Baked fruit dessert with buttery crust
+
+id: 193
+name: Spinach and Feta Pie
+ingredients: spinach,feta,phyllo dough,onion,egg
+calories: 550
+instructions: Savory Greek-style pie with spinach and cheese
+
+id: 194
+name: Beef Kebabs
+ingredients: beef,onion,pepper,spices,skewers
+calories: 600
+instructions: Grilled marinated beef skewers
+
+id: 195
+name: Chicken Noodle Soup
+ingredients: chicken,noodles,carrot,celery,onion
+calories: 450
+instructions: Comforting chicken soup with noodles
+
+id: 196
+name: Vegetable Frittata
+ingredients: eggs,spinach,tomato,cheese,onion
+calories: 400
+instructions: Baked egg dish loaded with vegetables
+
+id: 197
+name: Rice and Beans
+ingredients: rice,black beans,onion,garlic,spices
+calories: 450
+instructions: Simple and hearty side dish
+
+id: 198
+name: Chocolate Chip Cookies
+ingredients: flour,sugar,butter,chocolate chips,egg
+calories: 420
+instructions: Classic sweet baked cookies with chocolate chips
+
+id: 199
+name: Tomato Basil Soup
+ingredients: tomato,cream,basil,garlic,onion
+calories: 380
+instructions: Creamy tomato soup with fresh basil
+
+id: 200
+name: Greek Yogurt Parfait
+ingredients: greek yogurt,granola,honey,berries,nuts
+calories: 300
+instructions: Layered yogurt dessert with fruit and crunch
+
+id: 201
+name: Pumpkin Spice Latte
+ingredients: espresso,milk,pumpkin spice,sugar,whipped cream
+calories: 320
+instructions: Warm spiced coffee with creamy milk and pumpkin flavor
+
+id: 202
+name: Zucchini Noodles
+ingredients: zucchini,olive oil,garlic,parmesan,basil
+calories: 280
+instructions: Healthy spiralized zucchini served with garlic and cheese
+
+id: 203
+name: Banana Pancakes
+ingredients: banana,flour,egg,milk,baking powder
+calories: 350
+instructions: Fluffy pancakes infused with mashed bananas
+
+id: 204
+name: Mango Salsa
+ingredients: mango,onion,jalapeno,cilantro,lime juice
+calories: 150
+instructions: Fresh mango salsa with a spicy kick
+
+id: 205
+name: Quinoa Salad
+ingredients: quinoa,cucumber,tomato,feta,olive oil
+calories: 400
+instructions: Light and refreshing salad with quinoa and vegetables
+
+id: 206
+name: Spaghetti Aglio e Olio
+ingredients: spaghetti,garlic,olive oil,chili flakes,parsley
+calories: 500
+instructions: Simple Italian pasta with garlic and olive oil
+
+id: 207
+name: Butternut Squash Soup
+ingredients: butternut squash,cream,onion,garlic,thyme
+calories: 350
+instructions: Creamy and sweet roasted squash soup
+
+id: 208
+name: Coconut Shrimp
+ingredients: shrimp,coconut flakes,egg,flour,breading
+calories: 600
+instructions: Crunchy shrimp coated in coconut flakes and fried
+
+id: 209
+name: Caprese Salad
+ingredients: tomato,mozzarella,basil,olive oil,balsamic glaze
+calories: 320
+instructions: Classic Italian salad with fresh mozzarella and tomatoes
+
+id: 210
+name: Tuna Salad Wrap
+ingredients: tuna,mayonnaise,celery,onion,lettuce
+calories: 450
+instructions: Tuna salad wrapped in a soft tortilla
+
+id: 211
+name: Baked Ziti
+ingredients: ziti pasta,tomato sauce,mozzarella,ricotta,parmesan
+calories: 700
+instructions: Cheesy baked pasta with rich tomato sauce
+
+id: 212
+name: Stuffed Bell Peppers
+ingredients: bell peppers,ground beef,rice,tomato sauce,cheese
+calories: 650
+instructions: Baked peppers filled with meat, rice, and cheese
+
+id: 213
+name: Chicken Satay
+ingredients: chicken,peanut sauce,soy sauce,garlic,lime
+calories: 550
+instructions: Grilled skewered chicken with flavorful peanut sauce
+
+id: 214
+name: Sweet Potato Fries
+ingredients: sweet potato,olive oil,salt,pepper,paprika
+calories: 300
+instructions: Crispy baked sweet potato fries with seasoning
+
+id: 215
+name: Avocado Chicken Salad
+ingredients: chicken,avocado,mayonnaise,celery,lemon juice
+calories: 480
+instructions: Creamy chicken salad with fresh avocado
+
+id: 216
+name: Beef Pho
+ingredients: beef broth,rice noodles,beef slices,basil,lime
+calories: 600
+instructions: Vietnamese noodle soup with fragrant beef broth
+
+id: 217
+name: Chickpea Curry
+ingredients: chickpeas,coconut milk,tomato,onion,spices
+calories: 550
+instructions: Rich and creamy curry made with chickpeas
+
+id: 218
+name: Grilled Asparagus
+ingredients: asparagus,olive oil,lemon,garlic,parmesan
+calories: 280
+instructions: Tender grilled asparagus with a zesty finish
+
+id: 219
+name: Apple Walnut Salad
+ingredients: apple,walnuts,lettuce,blue cheese,dressing
+calories: 400
+instructions: Crunchy salad combining sweet apples and nuts
+
+id: 220
+name: Vegetable Stir Fry
+ingredients: broccoli,carrot,bell pepper,soy sauce,garlic
+calories: 450
+instructions: Quick stir-fried mixed vegetables in soy sauce
+
+id: 221
+name: Lemon Bars
+ingredients: lemon,flour,sugar,butter,egg
+calories: 320
+instructions: Tangy and sweet lemon dessert bars
+
+id: 222
+name: Garlic Butter Scallops
+ingredients: scallops,butter,garlic,lemon,parsley
+calories: 550
+instructions: Seared scallops in a rich garlic butter sauce
+
+id: 223
+name: Chocolate Fondue
+ingredients: chocolate,cream,sugar,butter,vanilla
+calories: 400
+instructions: Melted chocolate dip for fruits and treats
+
+id: 224
+name: Basil Pesto Pasta
+ingredients: pasta,basil,pine nuts,parmesan,olive oil
+calories: 520
+instructions: Fresh pesto sauce tossed with pasta
+
+id: 225
+name: Carrot Ginger Soup
+ingredients: carrot,ginger,onion,cream,vegetable broth
+calories: 350
+instructions: Smooth and spicy carrot soup with ginger
+
+id: 226
+name: Mediterranean Quinoa Bowl
+ingredients: quinoa,cucumber,tomato,olives,feta
+calories: 450
+instructions: Hearty bowl with quinoa and Mediterranean veggies
+
+id: 227
+name: Raspberry Cheesecake
+ingredients: cream cheese,raspberries,sugar,graham crackers,butter
+calories: 500
+instructions: Creamy cheesecake topped with fresh raspberries
+
+id: 228
+name: Chicken Enchiladas
+ingredients: chicken,tortilla,cheese,enchilada sauce,onion
+calories: 700
+instructions: Baked tortillas stuffed with chicken and sauce
+
+id: 229
+name: Beet Hummus
+ingredients: beets,chickpeas,tahini,lemon,garlic
+calories: 300
+instructions: Vibrant pink hummus made with roasted beets
+
+id: 230
+name: Grilled Corn Salad
+ingredients: corn,tomato,cilantro,lime,jalapeno
+calories: 380
+instructions: Fresh salad with grilled corn and spicy lime dressing
+
+id: 231
+name: Chocolate Banana Smoothie
+ingredients: banana,chocolate,milk,yogurt,honey
+calories: 320
+instructions: Creamy smoothie blending banana and chocolate
+
+id: 232
+name: Mushroom Risotto
+ingredients: arborio rice,mushrooms,parmesan,white wine,onion
+calories: 600
+instructions: Creamy Italian rice dish with mushrooms
+
+id: 233
+name: Blueberry Muffins
+ingredients: blueberries,flour,sugar,butter,egg
+calories: 400
+instructions: Sweet muffins bursting with blueberries
+
+id: 234
+name: Cauliflower Tacos
+ingredients: cauliflower,tortilla,avocado,salsa,cabbage
+calories: 450
+instructions: Spiced roasted cauliflower served in soft tortillas
+
+id: 235
+name: Pumpkin Pancakes
+ingredients: pumpkin puree,flour,egg,milk,cinnamon
+calories: 360
+instructions: Fluffy pancakes with pumpkin spice flavor
+
+id: 236
+name: Chicken Shawarma
+ingredients: chicken,spices,yogurt,garlic,tahini
+calories: 650
+instructions: Middle Eastern spiced grilled chicken wrap
+
+id: 237
+name: Lamb Tagine
+ingredients: lamb,apricots,almonds,spices,couscous
+calories: 700
+instructions: Slow-cooked Moroccan stew with sweet fruits
+
+id: 238
+name: Avocado Egg Salad
+ingredients: egg,avocado,mayonnaise,mustard,salt
+calories: 450
+instructions: Creamy salad combining eggs and avocado
+
+id: 239
+name: Tuna Poke Bowl
+ingredients: tuna,avocado,rice,soy sauce,seaweed
+calories: 520
+instructions: Fresh Hawaiian style tuna rice bowl
+
+id: 240
+name: Spinach Artichoke Dip
+ingredients: spinach,artichoke,cream cheese,parmesan,garlic
+calories: 480
+instructions: Creamy baked dip with spinach and artichoke
+
+id: 241
+name: Roasted Cauliflower
+ingredients: cauliflower,olive oil,garlic,paprika,parsley
+calories: 350
+instructions: Tender roasted cauliflower with smoky paprika
+
+id: 242
+name: Turkey Meatballs
+ingredients: ground turkey,egg,breadcrumbs,parmesan,garlic
+calories: 600
+instructions: Juicy meatballs made with lean turkey
+
+id: 243
+name: Mango Lassi
+ingredients: mango,yogurt,milk,honey,cardamom
+calories: 250
+instructions: Refreshing Indian mango yogurt drink
+
+id: 244
+name: Beef Tacos
+ingredients: ground beef,taco shells,lettuce,cheddar,salsa
+calories: 650
+instructions: Spicy beef tacos with fresh toppings
+
+id: 245
+name: Spinach Frittata
+ingredients: spinach,eggs,parmesan,onion,cream
+calories: 400
+instructions: Baked egg dish with spinach and cheese
+
+id: 246
+name: Garlic Naan
+ingredients: flour,yeast,garlic,butter,yogurt
+calories: 300
+instructions: Soft Indian flatbread brushed with garlic butter
+
+id: 247
+name: Peach Cobbler
+ingredients: peach,sugar,butter,flour,cinnamon
+calories: 450
+instructions: Warm baked dessert with sweet peaches
+
+id: 248
+name: Clam Chowder
+ingredients: clams,potatoes,cream,onion,celery
+calories: 500
+instructions: Creamy New England style clam soup
+
+id: 249
+name: Balsamic Glazed Brussels
+ingredients: brussels sprouts,balsamic vinegar,olive oil,garlic
+calories: 320
+instructions: Roasted Brussels with tangy balsamic glaze
+
+id: 250
+name: Fish Tacos
+ingredients: white fish,tortilla,cabbage,avocado,chipotle sauce
+calories: 600
+instructions: Crispy fish tacos with creamy sauce
+
+id: 251
+name: Cucumber Salad
+ingredients: cucumber,dill,red onion,vinegar,sugar
+calories: 200
+instructions: Light and refreshing cucumber salad
+
+id: 252
+name: BBQ Pulled Pork
+ingredients: pork shoulder,bbq sauce,buns,coleslaw
+calories: 700
+instructions: Slow cooked pulled pork with barbecue sauce
+
+id: 253
+name: Tomato Basil Soup
+ingredients: tomato,basil,cream,onion,garlic
+calories: 350
+instructions: Classic creamy tomato soup with fresh basil
+
+id: 254
+name: Mint Chocolate Chip Ice Cream
+ingredients: mint,chocolate chips,cream,sugar,egg yolks
+calories: 450
+instructions: Refreshing mint ice cream with chocolate chunks
+
+id: 255
+name: Chicken Alfredo
+ingredients: fettuccine,cream,parmesan,garlic,chicken breast
+calories: 700
+instructions: Creamy pasta with chicken and cheese sauce
+
+id: 256
+name: Vegetable Samosa
+ingredients: potato,peas,spices,flour,oil
+calories: 400
+instructions: Fried pastry filled with spiced vegetables
+
+id: 257
+name: Chili Con Carne
+ingredients: ground beef,kidney beans,tomato,onion,chili powder
+calories: 650
+instructions: Hearty spicy beef and bean stew
+
+id: 258
+name: Cranberry Sauce
+ingredients: cranberries,sugar,orange juice,zest
+calories: 150
+instructions: Tangy sweet cranberry sauce perfect for holidays
+
+id: 259
+name: Honey Glazed Carrots
+ingredients: carrots,honey,butter,thyme,salt
+calories: 300
+instructions: Sweet roasted carrots with honey glaze
+
+id: 260
+name: Mac and Cheese
+ingredients: macaroni,cheddar,butter,milk,flour
+calories: 700
+instructions: Classic creamy baked macaroni and cheese
+
+id: 261
+name: Lentil Soup
+ingredients: lentils,carrot,onion,celery,garlic
+calories: 350
+instructions: Nutritious and hearty lentil soup
+
+id: 262
+name: Garlic Parmesan Wings
+ingredients: chicken wings,garlic,butter,parmesan,parsley
+calories: 650
+instructions: Crispy wings coated with garlic and cheese
+
+id: 263
+name: Ratatouille
+ingredients: eggplant,zucchini,tomato,pepper,onion
+calories: 400
+instructions: French vegetable stew with fresh herbs
+
+id: 264
+name: Chocolate Chip Cookies
+ingredients: flour,sugar,butter,egg,chocolate chips
+calories: 450
+instructions: Classic chewy chocolate chip cookies
+
+id: 265
+name: Greek Salad
+ingredients: tomato,cucumber,olives,feta,onion
+calories: 320
+instructions: Fresh Mediterranean salad with olives and cheese
+
+id: 266
+name: Vegetable Tempura
+ingredients: carrot,broccoli,sweet potato,flour,oil
+calories: 450
+instructions: Lightly fried crispy vegetables in batter
+
+id: 267
+name: Pesto Chicken
+ingredients: chicken,basil,pine nuts,parmesan,olive oil
+calories: 600
+instructions: Grilled chicken with fresh pesto sauce
+
+id: 268
+name: Rice Pilaf
+ingredients: rice,onion,garlic,broth,butter
+calories: 350
+instructions: Fluffy rice cooked with aromatic broth
+
+id: 269
+name: Strawberry Shortcake
+ingredients: strawberries,flour,butter,sugar,cream
+calories: 400
+instructions: Sweet shortcake layered with strawberries and cream
+
+id: 270
+name: Miso Soup
+ingredients: miso,seaweed,tofu,green onions,dashi
+calories: 200
+instructions: Traditional Japanese soup with miso paste
+
+id: 271
+name: Chocolate Mousse
+ingredients: chocolate,cream,sugar,egg whites,vanilla
+calories: 400
+instructions: Light and airy chocolate dessert
+
+id: 272
+name: Quiche Lorraine
+ingredients: pie crust,bacon,eggs,cream,cheese
+calories: 600
+instructions: Savory French tart with bacon and cheese
+
+id: 273
+name: Thai Green Curry
+ingredients: chicken,coconut milk,green curry paste,basil
+calories: 650
+instructions: Spicy and creamy Thai curry
+
+id: 274
+name: Apple Pie
+ingredients: apple,sugar,cinnamon,flour,butter
+calories: 500
+instructions: Classic baked apple pie with flaky crust
+
+id: 275
+name: Zucchini Fritters
+ingredients: zucchini,egg,flour,parmesan,herbs
+calories: 400
+instructions: Crispy fried zucchini patties
+
+id: 276
+name: Lamb Kebabs
+ingredients: lamb,garlic,spices,olive oil,lemon
+calories: 700
+instructions: Grilled marinated lamb skewers
+
+id: 277
+name: Stuffed Mushrooms
+ingredients: mushrooms,breadcrumbs,cheese,garlic,parsley
+calories: 350
+instructions: Savory baked mushrooms filled with cheese and herbs
+
+id: 278
+name: Chicken Caesar Salad
+ingredients: chicken,romaine,croutons,parmesan,caesar dressing
+calories: 500
+instructions: Classic salad with grilled chicken and creamy dressing
+
+id: 279
+name: Shrimp Scampi
+ingredients: shrimp,garlic,butter,white wine,parsley
+calories: 600
+instructions: Garlic butter shrimp with a splash of white wine
+
+id: 280
+name: Pumpkin Bread
+ingredients: pumpkin puree,flour,sugar,cinnamon,walnuts
+calories: 400
+instructions: Moist spiced pumpkin quick bread
+
+id: 281
+name: Beef Stroganoff
+ingredients: beef,mushrooms,onion,sour cream,mustard
+calories: 700
+instructions: Creamy Russian beef and mushroom dish
+
+id: 282
+name: Caesar Wrap
+ingredients: tortilla,romaine,grilled chicken,parmesan,caesar dressing
+calories: 550
+instructions: Fresh wrap with Caesar salad flavors
+
+id: 283
+name: Vegetable Lasagna
+ingredients: pasta,sauce,spinach,zucchini,ricotta,mozzarella
+calories: 600
+instructions: Layered baked pasta with vegetables and cheese
+
+id: 284
+name: Chicken Tikka Masala
+ingredients: chicken,tomato,cream,spices,garlic
+calories: 650
+instructions: Popular Indian curry with creamy sauce
+
+id: 285
+name: Sushi Rolls
+ingredients: rice,nori,fish,avocado,cucumber
+calories: 500
+instructions: Traditional Japanese rolled sushi
+
+id: 286
+name: Clam Linguine
+ingredients: linguine,clams,garlic,white wine,parsley
+calories: 600
+instructions: Pasta with fresh clams in white wine sauce
+
+id: 287
+name: French Onion Soup
+ingredients: onion,beef broth,cheese,bread,butter
+calories: 450
+instructions: Rich soup topped with melted cheese
+
+id: 288
+name: Avocado Toast
+ingredients: bread,avocado,lemon,salt,pepper
+calories: 300
+instructions: Simple and healthy avocado spread on toast
+
+id: 289
+name: Pumpkin Soup
+ingredients: pumpkin,cream,onion,garlic,spices
+calories: 350
+instructions: Smooth and creamy pumpkin soup
+
+id: 290
+name: Chicken Enchiladas
+ingredients: tortilla,chicken,cheese,enchilada sauce,beans
+calories: 650
+instructions: Baked tortillas filled with chicken and cheese
+
+id: 291
+name: Beet Salad
+ingredients: beets,goat cheese,walnuts,arugula,balsamic
+calories: 400
+instructions: Earthy salad with tangy cheese and nuts
+
+id: 292
+name: Minestrone
+ingredients: beans,vegetables,pasta,tomato broth,basil
+calories: 400
+instructions: Hearty Italian vegetable soup
+
+id: 293
+name: Creamy Polenta
+ingredients: cornmeal,butter,parmesan,cream,salt
+calories: 350
+instructions: Soft and creamy Italian cornmeal dish
+
+id: 294
+name: Tuna Salad
+ingredients: tuna,mayonnaise,onion,celery,lettuce
+calories: 450
+instructions: Classic tuna salad perfect for sandwiches
+
+id: 295
+name: Shepherd's Pie
+ingredients: ground beef,mashed potatoes,carrots,peas,onion
+calories: 700
+instructions: Baked savory pie topped with mashed potatoes
+
+id: 296
+name: Chocolate Fondue
+ingredients: chocolate,cream,sugar,butter,vanilla
+calories: 500
+instructions: Melted chocolate dip for fruits and treats
+
+id: 297
+name: Grilled Cheese
+ingredients: bread,butter,cheddar,mozzarella
+calories: 400
+instructions: Golden toasted sandwich with melted cheese
+
+id: 298
+name: Vegetable Stir Fry
+ingredients: broccoli,bell pepper,carrot,soy sauce,ginger
+calories: 350
+instructions: Quick sautéed mixed vegetables in sauce
+
+id: 299
+name: Peanut Butter Cookies
+ingredients: peanut butter,sugar,egg,vanilla,baking soda
+calories: 450
+instructions: Chewy cookies with rich peanut butter flavor
+
+id: 300
+name: Caprese Salad
+ingredients: tomato,mozzarella,basil,olive oil,balsamic
+calories: 350
+instructions: Simple Italian salad with fresh ingredients
+
