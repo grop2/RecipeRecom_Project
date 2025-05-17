@@ -19,8 +19,7 @@ do
     echo "Ingredient #$i"
     read -p "Enter name of ingredient: " name
     read -p "Enter amount of $name: " amount
-    read -p "Enter unit (g, ml, piece): " unit
-
+    read -p "Enter unit (g, ml, piece): " unit 
     cal_per_100=$(awk -F',' -v item="$(echo "$name" | tr '[:upper:]' '[:lower:]')" '
         BEGIN { found=0 }
         {
