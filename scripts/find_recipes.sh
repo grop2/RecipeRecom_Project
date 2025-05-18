@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Enter the ingredients you have (comma-separated):"
+echo "Enter the ingredients you have: (comma-separated):"
 read input_ingredients
 
 # نحول المكونات لمصفوفة وننظفها من الفراغات
