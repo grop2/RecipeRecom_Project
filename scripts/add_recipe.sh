@@ -36,4 +36,3 @@ echo "instructions: $instructions" >> "$DATA_FILE"
 
 #Show success message with the new ID
 echo " Recipe added successfully with ID $new_id!"
-
