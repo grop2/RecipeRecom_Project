@@ -1804,3 +1804,9 @@ name: Chocolate PUdding
 ingredients: milk,coca,suger,cornstarch
 calories: 350
 instructions: mix and heat until thick
+
+id: 302
+name: French Toast
+ingredients: bread,egg,milk
+calories: 320
+instructions: Dip bread in milk and egg, then fry both sides.
