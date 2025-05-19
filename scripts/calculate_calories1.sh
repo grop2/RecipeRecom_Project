@@ -1,11 +1,7 @@
 #!/bin/bash  # Specifies that the script should be run using the Bash shell
 
 echo ""
-<<<<<<< HEAD
-echo "--- Calorie Calculator  ---"  # Print a title for the script
-=======
 echo "--- Calorie Calculator (Bash Version) ---"  # Print a title for the script
->>>>>>> 8e11eda7d47ea7f348169c0d431367c863047d86
 read -p "How many ingredients in your recipe? " count  # Ask user for number of ingredients
 
 total=0  # Initialize a variable to keep track of total calories
