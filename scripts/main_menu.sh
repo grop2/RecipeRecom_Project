@@ -14,7 +14,7 @@ while true; do
     echo -n "Enter your choice (1-5): "
     read choice
 
-    #based on the user"s input, run the corresponding script
+#based on the user"s input, run the corresponding script
     case $choice in
         1) ./find.sh ;;
         2) ./calculate_calories1.sh ;;
@@ -24,4 +24,3 @@ while true; do
         *) echo "Invalid choice. Please enter a number from 1 to 5." ;;
     esac
 done
-
