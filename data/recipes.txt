@@ -1798,3 +1798,9 @@ ingredients: tomato,mozzarella,basil,olive oil,balsamic
 calories: 350
 instructions: Simple Italian salad with fresh ingredients
 
+
+id: 301
+name: Chocolate Pudding
+ingredients: milk,coca,suger,cornstarch
+calories: 350
+instructions: mix and heat until thick
